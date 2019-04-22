@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AHNU:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AHNU_jar</output-path>
+    <root id="archive" name="AHNU.jar">
+      <element id="module-output" name="AHNU" />
+    </root>
+  </artifact>
+</component>

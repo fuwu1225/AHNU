@@ -2,53 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15c328d-3a05-4b9b-8589-d95b20c77ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day03/FlyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/LTZJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/LTZJHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/LTZJPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/boss0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/boss1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/bossbu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/bossbu0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/bossbu1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/bosss0.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/bosss1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/flys5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/gameover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/gg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/jj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/qq08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/img/ws09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/AirPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/Love.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day03/FlyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day03/FlyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day03/LTZJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day03/LTZJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day03/LTZJBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day03/LTZJHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day03/LTZJPanel.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,19 +42,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day02_TomCat/TomCat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day03/LTZJ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day03/GamePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,30 +63,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day03/LTZJPanel.java">
+        <entry file="file://$PROJECT_DIR$/src/Day03/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2638#2639#0" expanded="true" />
-                <element signature="e#2724#2725#0" expanded="true" />
-                <element signature="e#3629#3630#0" expanded="true" />
-                <element signature="e#3656#3657#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day03/LTZJHero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,8 +77,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day03/FlyObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day03/Bullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day03/Love.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day03/AirPlane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day03/Enemy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -142,8 +128,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bool</find>
+      <find>stepAc</find>
+      <find>getss</find>
+      <find>gets</find>
+      <find>flys[</find>
+      <find>step</find>
+      <find>flys</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,16 +163,24 @@
         <option value="$PROJECT_DIR$/src/Day02_TomCat/TomsPanel.java" />
         <option value="$PROJECT_DIR$/src/Day02_TomCat/TomCatPanel.java" />
         <option value="$PROJECT_DIR$/src/Day02_TomCat/TomCat.java" />
-        <option value="$PROJECT_DIR$/src/Day03/FlyObject.java" />
-        <option value="$PROJECT_DIR$/src/Day03/LTZJ.java" />
-        <option value="$PROJECT_DIR$/src/Day03/LTZJPanel.java" />
+        <option value="$PROJECT_DIR$/src/Day03/LTZJBullet.java" />
+        <option value="$PROJECT_DIR$/src/Day03/Award.java" />
         <option value="$PROJECT_DIR$/src/Day03/LTZJHero.java" />
+        <option value="$PROJECT_DIR$/src/Day03/LTZJPanel.java" />
+        <option value="$PROJECT_DIR$/src/Day03/Boss.java" />
+        <option value="$PROJECT_DIR$/src/Day03/LTZJ.java" />
+        <option value="$PROJECT_DIR$/src/Day03/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/Day03/Hero.java" />
+        <option value="$PROJECT_DIR$/src/Day03/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/Day03/FlyObject.java" />
+        <option value="$PROJECT_DIR$/src/Day03/Love.java" />
+        <option value="$PROJECT_DIR$/src/Day03/AirPlane.java" />
+        <option value="$PROJECT_DIR$/src/Day03/Enemy.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="865" />
-    <option name="y" value="113" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -186,8 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +226,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Day03" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -346,7 +353,17 @@
       <workItem from="1556005016450" duration="4173000" />
       <workItem from="1556017161660" duration="5404000" />
       <workItem from="1556065088253" duration="285000" />
-      <workItem from="1556150264734" duration="778000" />
+      <workItem from="1556150264734" duration="1612000" />
+      <workItem from="1556153798927" duration="1066000" />
+      <workItem from="1556154913868" duration="2179000" />
+      <workItem from="1556157427278" duration="3025000" />
+      <workItem from="1556160479244" duration="3197000" />
+      <workItem from="1556173691295" duration="5000" />
+      <workItem from="1556173879568" duration="5665000" />
+      <workItem from="1556180497414" duration="10987000" />
+      <workItem from="1556237041734" duration="13997000" />
+      <workItem from="1556338676722" duration="636000" />
+      <workItem from="1556799726026" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="it just a test">
       <created>1555915531016</created>
@@ -383,17 +400,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556027125608</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="增加了雷霆战机的初步">
+      <created>1556151285830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556151285830</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49623000" />
+    <option name="totallyTimeSpent" value="91812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="865" y="113" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32932165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28446388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,7 +426,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34533185" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34870642" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,6 +447,37 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34533185" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989059" weight="0.31848553" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010941" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32628062" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.10554371" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -434,14 +489,10 @@
     <MESSAGE value="昨晚的" />
     <MESSAGE value="增加了弹球" />
     <MESSAGE value="增加了TomCat" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了TomCat" />
+    <MESSAGE value="增加了雷霆战机的初步" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了雷霆战机的初步" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hs_err_pid1824.log" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77a94e88-a881-4e1b-8f0c-72ec6b514947/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day_01/Ktlx.java" />
     <entry file="file://$PROJECT_DIR$/src/Day01_night/Tonight.java" />
     <entry file="file://$PROJECT_DIR$/hs_err_pid8744.log" />
     <entry file="file://$PROJECT_DIR$/src/Day_01_Test/Ktlx.java">
@@ -533,17 +584,6 @@
     <entry file="file://$PROJECT_DIR$/src/Day02_TomCat/Buttons/drink.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day02/MyWordPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#paint#0;class#MyWordPanel#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day02_TomCat/Animations/Stomach/stomach_19.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -574,10 +614,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/qq05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/flys.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/flys0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/flys5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/pause.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/qq00.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day02_TomCat/TomCatPanel.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4367">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day02/MyWordPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#paint#0;class#MyWordPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/bossbu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/bossbu0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/bossbu1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/bosss1.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/bosss0.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/boss1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/boss0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/Award.java" />
+    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJHero.java" />
+    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Day03/Boss.java" />
+    <entry file="file://$PROJECT_DIR$/src/Day03/img/LTZJ.java" />
+    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -586,44 +712,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day03/FlyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJ.java">
+    <entry file="file://$PROJECT_DIR$/src/Day03/Bullet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/Love.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03/AirPlane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/Day03/Enemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2638#2639#0" expanded="true" />
-            <element signature="e#2724#2725#0" expanded="true" />
-            <element signature="e#3629#3630#0" expanded="true" />
-            <element signature="e#3656#3657#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day03/LTZJHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
